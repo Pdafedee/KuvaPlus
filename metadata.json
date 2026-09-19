@@ -1,0 +1,6 @@
+{
+  "name": "KuvaPlus - Plataforma Integral de Negocios y Swarm AI",
+  "description": "Plataforma empresarial de alto rendimiento inspirada en Ganvent, Lokoo+ y FinaPartner para entornos de bajo ancho de banda, con persistencia JSON y migración SQLite kba_mas, blockchain, pagos Transfermóvil, EnZona y QvaPay, mapa de negocios, QR y creador de marketing multiagente.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
